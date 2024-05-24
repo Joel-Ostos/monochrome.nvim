@@ -1,6 +1,6 @@
 local util = require 'monochrome.util'
 
-local Default = { '#EBEBEB', '#101010' }
+local Default = { '#101010', '#EBEBEB' }
 local Subtle = { '#F1F5F9', '#0A1219' }
 local CoolGray = { '#F9FAFB', '#111827' }
 local Photon = { '#c6c6c6', '#262626' }
